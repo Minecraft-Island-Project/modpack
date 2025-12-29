@@ -1,0 +1,13 @@
+name = "Fabulously Optimized"
+author = "macuguita, nicole, marco, dylan kennedy"
+version = "12.0.0-alpha.7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7614335bfc130ac1956e3578492bc7a96ed6738e2f32ded44335674550a6aae7"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
