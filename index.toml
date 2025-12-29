@@ -170,6 +170,11 @@ hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "b1e08d3a6db8777433227b2b300c89795d7baced15a012fe256aaddef74e91b6"
+metafile = true
+
+[[files]]
 file = "mods/bettergrass.pw.toml"
 hash = "71e3d4feab82b55e84966cfe8e162aa021eeda662276d019ca4daff2abb692d2"
 metafile = true
@@ -363,3 +368,7 @@ metafile = true
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "b041591514a38706134ff091e53a23fee38712dbb121d34ee07a62ec1720ba62"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "e2c8e8472163e69ffe0594785e78cea25d76e1fce5f95b95fa0480795274e981"
