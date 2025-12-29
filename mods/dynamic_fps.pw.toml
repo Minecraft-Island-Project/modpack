@@ -1,6 +1,6 @@
 name = "Dynamic FPS"
 filename = "dynamic-fps-3.11.2+minecraft-1.21.11-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/CpRI4yBz/dynamic-fps-3.11.2%2Bminecraft-1.21.11-fabric.jar"

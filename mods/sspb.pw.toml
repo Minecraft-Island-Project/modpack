@@ -1,6 +1,6 @@
 name = "Sodium Shadowy Path Blocks"
 filename = "sodium-shadowy-path-blocks-fabric-6.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/EIa1eiMm/versions/LpF3DIUM/sodium-shadowy-path-blocks-fabric-6.0.0.jar"
