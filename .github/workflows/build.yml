@@ -54,10 +54,11 @@ jobs:
         run: git submodule update --init --recursive --remote
 
       # Build mod
-      - name: Make Gradle wrapper executable
-        run: chmod +x ./mod/gradlew
       - name: Build mod
-        run: ./mod/gradlew build --no-daemon
+        run: |
+          cd mod
+          chmod +x ./gradlew
+          ./gradlew build --no-daemon
 
       # Copy mod JAR into pack and refresh Packwiz
       - name: Prepare Packwiz pack
