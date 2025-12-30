@@ -64,7 +64,7 @@ jobs:
       - name: Prepare Packwiz pack
         run: |
           mkdir -p mods
-          cp mod/build/libs/*.jar mods/
+          find mod/build/libs -maxdepth 1 -name '*.jar' ! -name '*-sources.jar' -exec cp {} mods/ \;
           packwiz refresh --build
 
           # Prepare build folder for GitHub Pages
