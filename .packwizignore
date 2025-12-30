@@ -1,5 +1,9 @@
 .gitattributes
 .gitignore
+.gitmodules
 .git/
+.github/
+mod/
+build/
 *.mrpack
 *.zip
