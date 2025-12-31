@@ -185,6 +185,11 @@ hash = "d83c777b94bfed67cdcb4b6eba1586a89e8d526c7c8765f3ad07e669cc73b5e8"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "b557acf03f54ba9bcea04ed559b316135b215aafa00b01d16553081f974b50bf"
 metafile = true
