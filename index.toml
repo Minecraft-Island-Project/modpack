@@ -1,70 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/crash_assistant/config.toml"
-hash = "f6e7fd1a6ada739da42d8cb8395232b28595fb7b74fc3c990d1947a3ef3a79cc"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "1c9a6e15853472164c29668a0aee0fc033d42c99a65d3ca9641d6b217ec3c39b"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
-hash = "c6af158e02fca9590d7f688d8a4bad410ccdabcb58787f0bd55c88a6543157f3"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/es_ve.json"
-hash = "5e3660aff589b69711dba7347af9d030c545e76793ac6752111256a97edcc276"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
-hash = "c4b077041d5847178c75cd56b076a20c0b1997bf0d322a68bb4a74076810c815"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json"
-hash = "6010c841df9af4ab572aa17e94d07b3661c136b63e8e0174e69bee9c52f36676"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/he_il.json"
-hash = "c746a1103ed59842e1520dab19aba57c5785457e991c356dc21621123545fbf0"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/it_it.json"
-hash = "5c7a5eb2218640ea7e6f3ab8c5629ae773b8dd59acbba998c92900054eb760f1"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/ms_my.json"
-hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/pl_pl.json"
-hash = "f878e7fbf52e211892dbc8bd100793e8627b7facc87c1dc954f4fd757b11af72"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
-hash = "f6afd3fa7e12990ed7181c04366bb5ce340a38981a2a54d8a95958b53bd8e296"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
-hash = "394a2b16bcf5b40e6387e33e4bf607e57ee62d451f8acbd33c4c500cc78400e4"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/vi_vn.json"
-hash = "4e7a3160e2ce7128a3fc583cd0a1cbb874b78eecb314ddbd9a0a209b7d3ee1a6"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json"
-hash = "5ded8a669ee5be80278281c2a03477edc59e207e08f7addedfc144be6cf7dd08"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json"
-hash = "15ca1dbab8723faf3a690cff0bdb0cbb63d20d138975083825c22c7a42643394"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/zlm_arab.json"
-hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "3f571bb934aaf3a5a1710f615e9903be6e8777319b606b95189113db52bf0198"
 
@@ -205,11 +141,6 @@ hash = "ededc607420a5486383ad58f9e92bce1c59bace57eeb1e5064e8994edd122bfa"
 metafile = true
 
 [[files]]
-file = "mods/crash_assistant.pw.toml"
-hash = "4f6fce7ff169d8bed3ae69e053fe9044bffd02505f9fb64d7794113037de39bc"
-metafile = true
-
-[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "a89555e4ccf7ba3541cae70de8e1c11b007a50993f3b7ffc490932029ed8fdf5"
 metafile = true
@@ -286,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
-hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
@@ -347,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/sspb.pw.toml"
 hash = "f28799b3ee44dddc0fa2eaa9cdac49456ee69bae90f5ff27e7fc7f4e1b78fe54"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
