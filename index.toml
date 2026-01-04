@@ -216,13 +216,18 @@ hash = "d092368596299fdea95ebc92ca2ff45e2032444e6f9c6504669402f935d63e17"
 metafile = true
 
 [[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "21e7b044769bec86617cb335296c1ab8c44b2ff374a8c3b214fea8e23466786b"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f529ec107b8cb4cacf8da77e65e1864789d8710d22f6c4cfa3265aaab7fe8aba"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
 
 [[files]]
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "f1aa887baa2d8756d63ee5b7d77983cab674cb2cc28ec546b7bde417c0f9a553"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
 
 [[files]]
